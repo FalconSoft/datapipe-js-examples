@@ -1,3 +1,3 @@
 # js-pjcsyf
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-pjcsyf)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/datapipe-js-examples)
