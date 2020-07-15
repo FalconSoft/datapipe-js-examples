@@ -1,6 +1,8 @@
 {
-  "name": "js-pjcsyf",
-  "version": "0.0.0",
+  "name": "datapipe-js-examples",
+  "version": "0.0.1",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "datapipe-js": "^0.3.0"
+  }
 }
